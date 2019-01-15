@@ -3,4 +3,28 @@ Projects from "Processing for designers" at FH-Potsdam with Tank Thunderbird
 
 
 ![1game](https://github.com/leleschlaich/Processing-Docu/blob/master/Screenshot%202019-01-15%20at%2016.07.30.png?raw=true "1game")
-a different ping pong game
+a different ping pong game for 2 players
+
+![1game](https://github.com/leleschlaich/Processing-Docu/blob/master/Screenshot%202019-01-15%20at%2016.07.30.png?raw=true "1game")
+
+daylight till night, change positions and speed with keys and mouse
+
+![1game](https://github.com/leleschlaich/Processing-Docu/blob/master/Screenshot%202019-01-15%20at%2016.07.30.png?raw=true "1game")
+
+
+starsigns: working with movable 3D-Objects
+
+
+
+camera-tool: drag yourself around and change the colour with the mouse
+
+
+
+
+
+
+
+
+
+
+
