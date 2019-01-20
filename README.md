@@ -1,6 +1,5 @@
-# Processing-Docu
+# Processing-Documentation
 Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tank Thunderbird
-
 
 A snaky ping pong game for 2 players:
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/01.png?raw=true "Title")
