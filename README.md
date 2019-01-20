@@ -59,6 +59,6 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 
-**08_Adventskalender: What is blood made of?:**  [Video]([Video](https://vimeo.com/303723796"vimeo")
+**08_Adventskalender: What is blood made of?:**  ([Video](https://vimeo.com/303723796"vimeo")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/21.png?raw=true "Title")
 
