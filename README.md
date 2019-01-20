@@ -3,12 +3,12 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 
-**01_A snaky ping pong game for 2 players:**[Video](https://vimeo.com/303715448"vimeo") 
+**01_A snaky ping pong game for 2 players:**  [Video](https://vimeo.com/303715448"vimeo") 
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/01.png?raw=true "Title")
 
 
 
-**02_Daylight till night, change positions and speed of moon and sun with keys and mouse:**[Video](https://vimeo.com/303729237"vimeo")
+**02_Daylight till night, change positions and speed of moon and sun with keys and mouse:**  [Video](https://vimeo.com/303729237"vimeo")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/02.png?raw=true "Title")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/03.png?raw=true "Title")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/04.png?raw=true "Title")
@@ -49,7 +49,7 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 
-**06_Adventskalender: so simple, so pretty, so fun:**[Video](https://vimeo.com/303713067"vimeo")
+**06_Adventskalender: so simple, so pretty, so fun:**  [Video](https://vimeo.com/303713067"vimeo")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/18.png?raw=true "Title")
 
 
@@ -59,6 +59,6 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 
-**08_Adventskalender: What is blood made of?:**[Video]([Video](https://vimeo.com/303723796"vimeo")
+**08_Adventskalender: What is blood made of?:**  [Video]([Video](https://vimeo.com/303723796"vimeo")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/21.png?raw=true "Title")
 
