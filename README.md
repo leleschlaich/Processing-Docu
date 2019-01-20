@@ -3,19 +3,19 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 
-**A snaky ping pong game for 2 players:**
+**01_A snaky ping pong game for 2 players:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/01.png?raw=true "Title")
 
 
 
-**Daylight till night, change positions and speed of moon and sun with keys and mouse:**
+**02_Daylight till night, change positions and speed of moon and sun with keys and mouse:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/02.png?raw=true "Title")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/03.png?raw=true "Title")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/04.png?raw=true "Title")
 
 
 
-**Starsign "kleiner Wagen": working with movable 3D-Objects in space:**
+**03_Starsign "kleiner Wagen": working with movable 3D-Objects in space:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/05.png?raw=true "Title")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/06.png?raw=true "Title")
 
@@ -27,7 +27,7 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 
-**Camera-tool: drag yourself around and change the colour with the mouse, press to invert and make it go crazy:**
+**04_Camera-tool: drag yourself around and change the colour with the mouse, press to invert and make it go crazy:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/09.png?raw=true "Title")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/10.png?raw=true "Title")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/11.png?raw=true "Title")
@@ -35,7 +35,7 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 
-**Drawing-tool: draw with different circulating words and icons, change colors, direction, speed, inspired by Generative Gestaltung:**
+**05_Drawing-tool: draw with different circulating words and icons, change colors, direction, speed, inspired by Generative Gestaltung:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/16.png?raw=true "Title")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/17.png?raw=true "Title")
 
@@ -49,12 +49,12 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 
-**One example: so simple, so pretty, so fun:**
+**06_One example: so simple, so pretty, so fun:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/18.png?raw=true "Title")
 
 
 
-**Another example: working with mathematics, sin ans cos:**
+**07_Another example: working with mathematics, sin ans cos:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/19.png?raw=true "Title")
 
 
