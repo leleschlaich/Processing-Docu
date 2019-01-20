@@ -1,24 +1,24 @@
 # Processing-Docu
-Projects from "Processing for designers" at FH-Potsdam with Tank Thunderbird
+Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tank Thunderbird
 
 
-![1game](https://github.com/leleschlaich/Processing-Docu/blob/master/Screenshot%202019-01-15%20at%2016.07.30.png?raw=true "1game")
-a different ping pong game for 2 players
-
-![1game](https://github.com/leleschlaich/Processing-Docu/blob/master/Screenshot%202019-01-15%20at%2016.07.30.png?raw=true "1game")
-
-daylight till night, change positions and speed with keys and mouse
-
-![1game](https://github.com/leleschlaich/Processing-Docu/blob/master/Screenshot%202019-01-15%20at%2016.07.30.png?raw=true "1game")
+A snaky ping pong game for 2 players
 
 
-starsigns: working with movable 3D-Objects
+Daylight till night, change positions and speed of moon and sun with keys and mouse
 
 
 
-camera-tool: drag yourself around and change the colour with the mouse
+Starsign "kleiner Wagen": working with movable 3D-Objects in space
 
 
+Playing around in the draw-function of the same Code
+
+
+Camera-tool: drag yourself around and change the colour with the mouse, press 
+
+
+My personal final project: an Adventskalender with 24 different little codes and QR-Codes to Scan to see videos and the code
 
 
 
