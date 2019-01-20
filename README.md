@@ -49,12 +49,16 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 
-**06_One example: so simple, so pretty, so fun:**
+**06_Adventskalender: so simple, so pretty, so fun:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/18.png?raw=true "Title")
 
 
 
-**07_Another example: working with mathematics, sin ans cos:**
+**07_Adventskalender: working with mathematics, sin ans cos:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/19.png?raw=true "Title")
 
+
+
+**08_Adventskalender: What is blood made of?:**
+![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/21.png?raw=true "Title")
 
