@@ -3,7 +3,7 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 
 
 A snaky ping pong game for 2 players
-
+![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/01.png?raw=true "Title")
 
 Daylight till night, change positions and speed of moon and sun with keys and mouse
 
