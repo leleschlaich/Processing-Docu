@@ -28,19 +28,24 @@ Projects from Werkstatt-Course "Processing for designers" at FH-Potsdam with Tan
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/12.png?raw=true "Title")
 
 
-**Drawing-tool: draw with different circulating words and icons, change colors, direction, speed, inspired by Generative Gestaltung**
+**Drawing-tool: draw with different circulating words and icons, change colors, direction, speed, inspired by Generative Gestaltung:**
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/16.png?raw=true "Title")
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/17.png?raw=true "Title")
 
 
-**My personal final project: an Adventskalender with 24 different little codes and QR-Codes to Scan to see videos and the code**
+**My personal final project: an Adventskalender with 24 different little codes and QR-Codes to Scan to see videos and the code*:*
 ![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/13.png?raw=true "Title")
-![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/14.pdf?raw=true "Title")
-![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/15.pdf?raw=true "Title")
+![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/14.png?raw=true "Title")
+![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/15.png?raw=true "Title")
+![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/16.png?raw=true "Title")
+![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/20.png?raw=true "Title")
 
 
+**One example: so simple, so pretty, so fun:**
+![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/17.png?raw=true "Title")
 
 
-
+**Another example: working with mathematics, sin ans cos:**
+![Alt text](https://github.com/leleschlaich/Processing-Docu/blob/master/img/18.png?raw=true "Title")
 
 
